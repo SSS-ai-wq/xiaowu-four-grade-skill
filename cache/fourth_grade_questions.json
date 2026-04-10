@@ -1,0 +1,15 @@
+[
+  {
+    "question": "234 × 56 = ?",
+    "knowledge_point": "四年级综合应用题",
+    "user": {
+      "name": "四年级测试学生",
+      "grade": "四年级",
+      "phone": "13800000000",
+      "user_id": 33
+    },
+    "timestamp": 1775791566.6996994,
+    "cached_at": "2026-04-10T11:26:06.699700",
+    "status": "pending"
+  }
+]
